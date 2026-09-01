@@ -10,6 +10,26 @@
         "format": "standings"
     },
     {
+        "id": "chess-olympiad-team",
+        "name": "Шахматная олимпиада: командный зачёт",
+        "format": "standings"
+    },
+    {
+        "id": "chess-olympiad-individual",
+        "name": "Шахматная олимпиада: личный зачёт на доске",
+        "format": "standings"
+    },
+    {
+        "id": "world-team-championship-team",
+        "name": "Командный чемпионат мира: командный зачёт",
+        "format": "standings"
+    },
+    {
+        "id": "world-team-championship-individual",
+        "name": "Командный чемпионат мира: личный зачёт на доске",
+        "format": "standings"
+    },
+    {
         "id": "fide-world-cup",
         "name": "Кубок мира FIDE",
         "format": "knockout"
@@ -87,6 +107,11 @@
     {
         "id": "aeroflot-open",
         "name": "Аэрофлот Опен",
+        "format": "standings"
+    },
+    {
+        "id": "national-championships",
+        "name": "Национальные чемпионаты (США / Россия)",
         "format": "standings"
     }
 ]

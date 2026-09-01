@@ -1,5 +1,59 @@
 [
     {
+        "tournamentId": "world-championship",
+        "year": 2021,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "world-championship",
+        "year": 2023,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "candidates",
+        "year": 2016,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "4"
+            }
+        ]
+    },
+    {
+        "tournamentId": "candidates",
+        "year": 2020,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "candidates",
+        "year": 2022,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1"
+            },
+            {
+                "playerId": "naka",
+                "result": "3"
+            }
+        ]
+    },
+    {
         "tournamentId": "candidates",
         "year": 2024,
         "players": [
@@ -9,7 +63,1261 @@
             },
             {
                 "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "candidates",
+        "year": 2026,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "5"
+            }
+        ]
+    },
+    {
+        "tournamentId": "chess-olympiad-team",
+        "year": 2006,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "3"
+            }
+        ]
+    },
+    {
+        "tournamentId": "chess-olympiad-team",
+        "year": 2008,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "3"
+            }
+        ]
+    },
+    {
+        "tournamentId": "chess-olympiad-team",
+        "year": 2010,
+        "players": [
+            {
+                "playerId": "nepo",
                 "result": "6"
+            },
+            {
+                "playerId": "naka",
+                "result": "9"
+            }
+        ]
+    },
+    {
+        "tournamentId": "chess-olympiad-team",
+        "year": 2012,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "5"
+            }
+        ]
+    },
+    {
+        "tournamentId": "chess-olympiad-team",
+        "year": 2014,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "4"
+            },
+            {
+                "playerId": "naka",
+                "result": "14"
+            }
+        ]
+    },
+    {
+        "tournamentId": "chess-olympiad-team",
+        "year": 2016,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "3"
+            },
+            {
+                "playerId": "naka",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "chess-olympiad-team",
+        "year": 2018,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "3"
+            },
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "chess-olympiad-individual",
+        "year": 2006,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "26"
+            }
+        ]
+    },
+    {
+        "tournamentId": "chess-olympiad-individual",
+        "year": 2008,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "10"
+            }
+        ]
+    },
+    {
+        "tournamentId": "chess-olympiad-individual",
+        "year": 2010,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "3"
+            },
+            {
+                "playerId": "naka",
+                "result": "11"
+            }
+        ]
+    },
+    {
+        "tournamentId": "chess-olympiad-individual",
+        "year": 2012,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "4"
+            }
+        ]
+    },
+    {
+        "tournamentId": "chess-olympiad-individual",
+        "year": 2014,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "3"
+            },
+            {
+                "playerId": "naka",
+                "result": "18"
+            }
+        ]
+    },
+    {
+        "tournamentId": "chess-olympiad-individual",
+        "year": 2016,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "2"
+            },
+            {
+                "playerId": "naka",
+                "result": "5"
+            }
+        ]
+    },
+    {
+        "tournamentId": "chess-olympiad-individual",
+        "year": 2018,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "world-team-championship-team",
+        "year": 2010,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "world-team-championship-team",
+        "year": 2011,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "4"
+            }
+        ]
+    },
+    {
+        "tournamentId": "world-team-championship-team",
+        "year": 2013,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1"
+            },
+            {
+                "playerId": "naka",
+                "result": "4"
+            }
+        ]
+    },
+    {
+        "tournamentId": "world-team-championship-team",
+        "year": 2017,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "world-team-championship-team",
+        "year": 2019,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "world-team-championship-individual",
+        "year": 2010,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "world-team-championship-individual",
+        "year": 2011,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "world-team-championship-individual",
+        "year": 2013,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1"
+            },
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "world-team-championship-individual",
+        "year": 2017,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "fide-world-cup",
+        "year": 2004,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "1/8"
+            }
+        ]
+    },
+    {
+        "tournamentId": "fide-world-cup",
+        "year": 2005,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "1/64"
+            }
+        ]
+    },
+    {
+        "tournamentId": "fide-world-cup",
+        "year": 2011,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1/16"
+            }
+        ]
+    },
+    {
+        "tournamentId": "fide-world-cup",
+        "year": 2013,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1/64"
+            },
+            {
+                "playerId": "naka",
+                "result": "1/8"
+            }
+        ]
+    },
+    {
+        "tournamentId": "fide-world-cup",
+        "year": 2015,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1/16"
+            },
+            {
+                "playerId": "naka",
+                "result": "1/4"
+            }
+        ]
+    },
+    {
+        "tournamentId": "fide-world-cup",
+        "year": 2017,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1/16"
+            },
+            {
+                "playerId": "naka",
+                "result": "1/16"
+            }
+        ]
+    },
+    {
+        "tournamentId": "fide-world-cup",
+        "year": 2019,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1/8"
+            },
+            {
+                "playerId": "naka",
+                "result": "1/32"
+            }
+        ]
+    },
+    {
+        "tournamentId": "fide-world-cup",
+        "year": 2023,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1/8"
+            },
+            {
+                "playerId": "naka",
+                "result": "1/16"
+            }
+        ]
+    },
+    {
+        "tournamentId": "fide-world-cup",
+        "year": 2025,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1/64"
+            }
+        ]
+    },
+    {
+        "tournamentId": "fide-grand-swiss",
+        "year": 2019,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "3"
+            }
+        ]
+    },
+    {
+        "tournamentId": "fide-grand-swiss",
+        "year": 2023,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "fide-grand-swiss",
+        "year": 2025,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "27"
+            }
+        ]
+    },
+    {
+        "tournamentId": "tata-steel",
+        "year": 2010,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "4"
+            }
+        ]
+    },
+    {
+        "tournamentId": "tata-steel",
+        "year": 2011,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "9"
+            },
+            {
+                "playerId": "naka",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "tata-steel",
+        "year": 2012,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "5"
+            }
+        ]
+    },
+    {
+        "tournamentId": "tata-steel",
+        "year": 2013,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "6"
+            }
+        ]
+    },
+    {
+        "tournamentId": "tata-steel",
+        "year": 2014,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "8"
+            }
+        ]
+    },
+    {
+        "tournamentId": "tata-steel",
+        "year": 2017,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "12"
+            }
+        ]
+    },
+    {
+        "tournamentId": "tata-steel",
+        "year": 2019,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "3"
+            }
+        ]
+    },
+    {
+        "tournamentId": "tata-steel",
+        "year": 2024,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "8"
+            }
+        ]
+    },
+    {
+        "tournamentId": "norway-chess",
+        "year": 2013,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "norway-chess",
+        "year": 2015,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "norway-chess",
+        "year": 2017,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "norway-chess",
+        "year": 2018,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "norway-chess",
+        "year": 2021,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "4"
+            }
+        ]
+    },
+    {
+        "tournamentId": "norway-chess",
+        "year": 2023,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "norway-chess",
+        "year": 2024,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "norway-chess",
+        "year": 2025,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "4"
+            }
+        ]
+    },
+    {
+        "tournamentId": "sinquefield-cup",
+        "year": 2013,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "sinquefield-cup",
+        "year": 2014,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "6"
+            }
+        ]
+    },
+    {
+        "tournamentId": "sinquefield-cup",
+        "year": 2015,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "sinquefield-cup",
+        "year": 2016,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "6"
+            }
+        ]
+    },
+    {
+        "tournamentId": "sinquefield-cup",
+        "year": 2017,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "9"
+            },
+            {
+                "playerId": "naka",
+                "result": "8"
+            }
+        ]
+    },
+    {
+        "tournamentId": "sinquefield-cup",
+        "year": 2018,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "9"
+            }
+        ]
+    },
+    {
+        "tournamentId": "sinquefield-cup",
+        "year": 2019,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "5"
+            },
+            {
+                "playerId": "naka",
+                "result": "9"
+            }
+        ]
+    },
+    {
+        "tournamentId": "sinquefield-cup",
+        "year": 2022,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "sinquefield-cup",
+        "year": 2023,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "4"
+            }
+        ]
+    },
+    {
+        "tournamentId": "sinquefield-cup",
+        "year": 2024,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "8"
+            }
+        ]
+    },
+    {
+        "tournamentId": "tal-memorial",
+        "year": 2010,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "4"
+            }
+        ]
+    },
+    {
+        "tournamentId": "tal-memorial",
+        "year": 2011,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "3"
+            },
+            {
+                "playerId": "naka",
+                "result": "10"
+            }
+        ]
+    },
+    {
+        "tournamentId": "tal-memorial",
+        "year": 2012,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "8"
+            }
+        ]
+    },
+    {
+        "tournamentId": "tal-memorial",
+        "year": 2013,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "6"
+            }
+        ]
+    },
+    {
+        "tournamentId": "tal-memorial",
+        "year": 2016,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "london-chess-classic",
+        "year": 2010,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "4"
+            }
+        ]
+    },
+    {
+        "tournamentId": "london-chess-classic",
+        "year": 2011,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "london-chess-classic",
+        "year": 2012,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "3"
+            }
+        ]
+    },
+    {
+        "tournamentId": "london-chess-classic",
+        "year": 2014,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "4"
+            }
+        ]
+    },
+    {
+        "tournamentId": "london-chess-classic",
+        "year": 2015,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "8"
+            }
+        ]
+    },
+    {
+        "tournamentId": "london-chess-classic",
+        "year": 2016,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "3"
+            }
+        ]
+    },
+    {
+        "tournamentId": "london-chess-classic",
+        "year": 2017,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "2"
+            },
+            {
+                "playerId": "naka",
+                "result": "6"
+            }
+        ]
+    },
+    {
+        "tournamentId": "dortmund",
+        "year": 2008,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "dortmund",
+        "year": 2011,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "5"
+            }
+        ]
+    },
+    {
+        "tournamentId": "dortmund",
+        "year": 2015,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "5"
+            }
+        ]
+    },
+    {
+        "tournamentId": "dortmund",
+        "year": 2018,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "dortmund",
+        "year": 2019,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "wr-chess-masters",
+        "year": 2023,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "3"
+            }
+        ]
+    },
+    {
+        "tournamentId": "zurich-chess-challenge",
+        "year": 2014,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "4"
+            }
+        ]
+    },
+    {
+        "tournamentId": "zurich-chess-challenge",
+        "year": 2015,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "gashimov-memorial",
+        "year": 2014,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "3"
+            }
+        ]
+    },
+    {
+        "tournamentId": "bilbao-masters",
+        "year": 2016,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "gibraltar-masters",
+        "year": 2005,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "6"
+            }
+        ]
+    },
+    {
+        "tournamentId": "gibraltar-masters",
+        "year": 2007,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "gibraltar-masters",
+        "year": 2008,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "gibraltar-masters",
+        "year": 2009,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "3"
+            }
+        ]
+    },
+    {
+        "tournamentId": "gibraltar-masters",
+        "year": 2015,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "gibraltar-masters",
+        "year": 2016,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "gibraltar-masters",
+        "year": 2017,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "gibraltar-masters",
+        "year": 2018,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "3"
+            }
+        ]
+    },
+    {
+        "tournamentId": "gibraltar-masters",
+        "year": 2019,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "6"
+            }
+        ]
+    },
+    {
+        "tournamentId": "isle-of-man",
+        "year": 2016,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "8"
+            }
+        ]
+    },
+    {
+        "tournamentId": "isle-of-man",
+        "year": 2017,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "isle-of-man",
+        "year": 2018,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "3"
+            }
+        ]
+    },
+    {
+        "tournamentId": "aeroflot-open",
+        "year": 2008,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "aeroflot-open",
+        "year": 2010,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "7"
+            }
+        ]
+    },
+    {
+        "tournamentId": "aeroflot-open",
+        "year": 2015,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "aeroflot-open",
+        "year": 2025,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "aeroflot-open",
+        "year": 2026,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "national-championships",
+        "year": 2003,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "9"
+            }
+        ]
+    },
+    {
+        "tournamentId": "national-championships",
+        "year": 2005,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "national-championships",
+        "year": 2006,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "7"
+            }
+        ]
+    },
+    {
+        "tournamentId": "national-championships",
+        "year": 2007,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "10"
+            }
+        ]
+    },
+    {
+        "tournamentId": "national-championships",
+        "year": 2009,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "national-championships",
+        "year": 2010,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1"
+            },
+            {
+                "playerId": "naka",
+                "result": "3"
+            }
+        ]
+    },
+    {
+        "tournamentId": "national-championships",
+        "year": 2011,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "6"
+            }
+        ]
+    },
+    {
+        "tournamentId": "national-championships",
+        "year": 2012,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "national-championships",
+        "year": 2013,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "national-championships",
+        "year": 2014,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "3"
+            }
+        ]
+    },
+    {
+        "tournamentId": "national-championships",
+        "year": 2015,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "national-championships",
+        "year": 2016,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "2"
+            }
+        ]
+    },
+    {
+        "tournamentId": "national-championships",
+        "year": 2017,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "3"
+            }
+        ]
+    },
+    {
+        "tournamentId": "national-championships",
+        "year": 2018,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "4"
+            },
+            {
+                "playerId": "naka",
+                "result": "4"
+            }
+        ]
+    },
+    {
+        "tournamentId": "national-championships",
+        "year": 2019,
+        "players": [
+            {
+                "playerId": "naka",
+                "result": "1"
+            }
+        ]
+    },
+    {
+        "tournamentId": "national-championships",
+        "year": 2020,
+        "players": [
+            {
+                "playerId": "nepo",
+                "result": "1"
             }
         ]
     }
