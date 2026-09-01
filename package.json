@@ -1,15 +1,15 @@
 {
     "name": "chess-api",
-    "version": "1.0.0",
-    "description": "",
+    "version": "1.0.1",
+    "description": "Small Chess API built with Node.js",
     "main": "server.js",
-    "scripts":
-    {
+    "scripts": {
         "start": "node server.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "node test-api.js local",
+        "test:local": "node test-api.js local",
+        "test:public": "node test-api.js public"
     },
-    "keywords":
-    [],
+    "keywords": [],
     "author": "",
     "license": "ISC",
     "type": "commonjs"
