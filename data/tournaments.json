@@ -1,10 +1,92 @@
 [
     {
-        "id": "candidates",
-        "name": "Турнир претендентов"
+        "id": "world-championship",
+        "name": "Матч на первенство мира",
+        "format": "match"
     },
     {
-        "id": "grand-swiss",
-        "name": "Большая швейцарка"
+        "id": "candidates",
+        "name": "Турнир претендентов",
+        "format": "standings"
+    },
+    {
+        "id": "fide-world-cup",
+        "name": "Кубок мира FIDE",
+        "format": "knockout"
+    },
+    {
+        "id": "fide-grand-swiss",
+        "name": "FIDE Grand Swiss",
+        "format": "standings"
+    },
+    {
+        "id": "tata-steel",
+        "name": "Tata Steel (Corus)",
+        "format": "standings"
+    },
+    {
+        "id": "norway-chess",
+        "name": "Norway Chess",
+        "format": "standings"
+    },
+    {
+        "id": "sinquefield-cup",
+        "name": "Кубок Синкфилда",
+        "format": "standings"
+    },
+    {
+        "id": "tal-memorial",
+        "name": "Мемориал Таля",
+        "format": "standings"
+    },
+    {
+        "id": "london-chess-classic",
+        "name": "London Chess Classic",
+        "format": "standings"
+    },
+    {
+        "id": "dortmund",
+        "name": "Dortmund Sparkassen Chess Meeting",
+        "format": "standings"
+    },
+    {
+        "id": "wr-chess-masters",
+        "name": "WR Chess Masters",
+        "format": "standings"
+    },
+    {
+        "id": "zurich-chess-challenge",
+        "name": "Zurich Chess Challenge",
+        "format": "standings"
+    },
+    {
+        "id": "gashimov-memorial",
+        "name": "Мемориал Гашимова",
+        "format": "standings"
+    },
+    {
+        "id": "superbet-chess-classic",
+        "name": "Superbet Chess Classic",
+        "format": "standings"
+    },
+    {
+        "id": "bilbao-masters",
+        "name": "Bilbao Masters / Bilbao Grand Slam Final",
+        "format": "standings"
+    },
+    {
+        "id": "gibraltar-masters",
+        "name": "Gibraltar Masters",
+        "format": "standings"
+    },
+    {
+        "id": "isle-of-man",
+        "name": "Турнир на острове Мэн",
+        "format": "standings"
+    },
+    {
+        "id": "aeroflot-open",
+        "name": "Аэрофлот Опен",
+        "format": "standings"
     }
 ]

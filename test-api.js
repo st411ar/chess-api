@@ -233,10 +233,30 @@ async function run() {
             );
         });
 
+        await test('Reject tournament without format', async () => {
+            const response = await request('POST', '/tournaments', {
+                id: `${tournamentId}-no-format`,
+                name: 'Турнир без формата'
+            });
+
+            assert(response.status === 400, `Expected 400, got ${response.status}`);
+        });
+
+        await test('Reject invalid tournament format', async () => {
+            const response = await request('POST', '/tournaments', {
+                id: `${tournamentId}-bad-format`,
+                name: 'Турнир с ошибочным форматом',
+                format: 'swiss'
+            });
+
+            assert(response.status === 400, `Expected 400, got ${response.status}`);
+        });
+
         await test('Create tournament', async () => {
             const response = await request('POST', '/tournaments', {
                 id: tournamentId,
-                name: 'Публичный тестовый турнир'
+                name: 'Публичный тестовый турнир',
+                format: 'standings'
             });
 
             assert(response.status === 201, `Expected 201, got ${response.status}`);
@@ -246,7 +266,8 @@ async function run() {
         await test('Reject duplicate tournament', async () => {
             const response = await request('POST', '/tournaments', {
                 id: tournamentId,
-                name: 'Дубликат турнира'
+                name: 'Дубликат турнира',
+                format: 'standings'
             });
 
             assert(response.status === 409, `Expected 409, got ${response.status}`);
@@ -256,13 +277,20 @@ async function run() {
             const response = await request(
                 'PUT',
                 `/tournaments/${encodeURIComponent(tournamentId)}`,
-                { name: 'Обновленный публичный турнир' }
+                {
+                    name: 'Обновленный публичный турнир',
+                    format: 'knockout'
+                }
             );
 
             assert(response.status === 200, `Expected 200, got ${response.status}`);
             assert(
                 response.body?.tournament?.name === 'Обновленный публичный турнир',
                 'Tournament name was not updated'
+            );
+            assert(
+                response.body?.tournament?.format === 'knockout',
+                'Tournament format was not updated'
             );
         });
 
